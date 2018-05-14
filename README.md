@@ -16,5 +16,6 @@ git remote add origin https://github.com/dhanraju/html.git
 git push -u origin master
 ~~~~
 
-Or import code from another repository.\n
+Or import code from another repository.
+
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project
